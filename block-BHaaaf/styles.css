@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.head{
+    color: chartreuse;
+}
+
+#identifier{
+
+    color: cornflowerblue;
+    background-color: rgb(240, 240, 240);
+}
+
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: 40px;
+}
+
+.size{
+    font-size: 20px;
+}
